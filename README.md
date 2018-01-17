@@ -1,2 +1,0 @@
-# vamoos
-Vamoos website
