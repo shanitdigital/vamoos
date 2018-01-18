@@ -54,7 +54,7 @@
         "main": true,
         "title": "Vamoos Woman",
         "meta_descr": "",
-        "header_custom": "<meta property=\"og:image\" content=\"/assets/images/FB.png\" />\n",
+        "header_custom": "<meta property=\"og:image\" content=\"http://shanitdigital.co.il/assets/images/FB.png\" />\n\n",
         "footer_custom": "",
         "html_before": ""
       },
