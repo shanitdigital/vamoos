@@ -1364,7 +1364,7 @@ body {
   min-height: 100vh;
 }
 .cid-qEP15ThYUE {
-  background-image: url("../../../assets/images/header-2000x1193.png");
+  background-image: url("../../../assets/images/header-light-1200x716.png");
 }
 .cid-qEP15ThYUE H1 {
   color: #41494b;
@@ -1490,30 +1490,37 @@ body {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/rodion-kutsaev-24833-2000x1333.jpg");
 }
-.cid-qELAwAbXxn {
-  background-image: url("../../../assets/images/technology-1-1200x700.png");
+.cid-qH59LNFzBa {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
 }
-.cid-qELAwAbXxn h1 {
-  color: #616161;
+.cid-qH59LNFzBa .media-container-row {
+  flex-direction: row-reverse;
 }
-.cid-qELAwAbXxn h2,
-.cid-qELAwAbXxn h3,
-.cid-qELAwAbXxn p {
-  color: #767676;
+@media (min-width: 992px) {
+  .cid-qH59LNFzBa .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
 }
-.cid-qELAwAbXxn .mbr-section-subtitle {
-  font-style: italic;
+@media (max-width: 991px) {
+  .cid-qH59LNFzBa .mbr-figure {
+    padding-bottom: 3rem;
+  }
 }
-.cid-qELAwAbXxn H1 {
-  text-align: right;
+@media (max-width: 767px) {
+  .cid-qH59LNFzBa .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qH59LNFzBa H1 {
   color: #41494b;
 }
-.cid-qELAwAbXxn P {
-  text-align: right;
+.cid-qH59LNFzBa .mbr-text,
+.cid-qH59LNFzBa .mbr-section-btn {
   color: #41494b;
-}
-.cid-qELAwAbXxn B {
-  color: #990f94;
 }
 .cid-qEPLmry9Sw {
   padding-top: 60px;
@@ -1521,7 +1528,7 @@ body {
   background-image: url("../../../assets/images/rodion-kutsaev-24833-2000x1333.jpg");
 }
 .cid-qFuPnIjo1u {
-  background-image: url("../../../assets/images/focus2-3-1200x716.png");
+  background-image: url("../../../assets/images/sof-1200x716.png");
 }
 .cid-qFuPnIjo1u h1 {
   color: #616161;
