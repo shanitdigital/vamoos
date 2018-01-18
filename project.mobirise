@@ -54,7 +54,7 @@
         "main": true,
         "title": "Vamoos Woman",
         "meta_descr": "",
-        "header_custom": "<meta property=\"og:image\" content=\"http://shanitdigital.co.il/assets/images/FB.png\" />\n\n",
+        "header_custom": "<meta property=\"og:image\" content=\"http://shanitdigital.co.il/assets/images/FB.png\" />\n<meta property=\"og:url\"                content=\"http://shanitdigital.co.il\" />\n<meta property=\"og:type\"               content=\"website\" />\n<meta property=\"og:title\"              content=\"Vamoos Woman\" />\n<meta property=\"og:description\"        content=\"ללמוד להבין ולהצליח, פרסום ושיווק בפייסבוק זה פשוט, כנסי לבחור את הסדנא / קורס שיתן לך את הדחיפה למעלה...\" />\n",
         "footer_custom": "",
         "html_before": ""
       },
