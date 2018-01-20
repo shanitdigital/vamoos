@@ -187,21 +187,21 @@ body {
 .btn-info:active {
   background-color: #ffffff;
   border-color: #ffffff;
-  color: #ffffff;
+  color: #808080;
 }
 .btn-info:hover,
 .btn-info:focus,
 .btn-info.focus,
 .btn-info.active {
-  color: #ffffff;
-  background-color: #d4d4d4;
-  border-color: #d4d4d4;
+  color: #808080;
+  background-color: #d9d9d9;
+  border-color: #d9d9d9;
 }
 .btn-info.disabled,
 .btn-info:disabled {
-  color: #ffffff !important;
-  background-color: #d4d4d4 !important;
-  border-color: #d4d4d4 !important;
+  color: #808080 !important;
+  background-color: #d9d9d9 !important;
+  border-color: #d9d9d9 !important;
 }
 .btn-success,
 .btn-success:active {
@@ -270,21 +270,21 @@ body {
 .btn-white:active {
   background-color: #ffffff;
   border-color: #ffffff;
-  color: #ffffff;
+  color: #808080;
 }
 .btn-white:hover,
 .btn-white:focus,
 .btn-white.focus,
 .btn-white.active {
-  color: #ffffff;
-  background-color: #d4d4d4;
-  border-color: #d4d4d4;
+  color: #808080;
+  background-color: #d9d9d9;
+  border-color: #d9d9d9;
 }
 .btn-white.disabled,
 .btn-white:disabled {
-  color: #ffffff !important;
-  background-color: #d4d4d4 !important;
-  border-color: #d4d4d4 !important;
+  color: #808080 !important;
+  background-color: #d9d9d9 !important;
+  border-color: #d9d9d9 !important;
 }
 .btn-black,
 .btn-black:active {
@@ -349,20 +349,20 @@ body {
 .btn-info-outline,
 .btn-info-outline:active {
   background: none;
-  border-color: #ffffff;
-  color: #ffffff;
+  border-color: #cccccc;
+  color: #cccccc;
 }
 .btn-info-outline:hover,
 .btn-info-outline:focus,
 .btn-info-outline.focus,
 .btn-info-outline.active {
-  color: #ffffff;
+  color: #808080;
   background-color: #ffffff;
   border-color: #ffffff;
 }
 .btn-info-outline.disabled,
 .btn-info-outline:disabled {
-  color: #ffffff !important;
+  color: #808080 !important;
   background-color: #ffffff !important;
   border-color: #ffffff !important;
 }
@@ -1372,12 +1372,12 @@ body {
 .cid-qEPmMzN8gQ {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/rodion-kutsaev-24833-2000x1333.jpg");
+  background-image: url("../../../assets/images/rodion-kutsaev-24836-2000x1333.jpg");
 }
 .cid-qEPdTWzr8s {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/depositphotos-154073708-original-2000x1333.jpg");
+  background-image: url("../../../assets/images/depositphotos-154073708-original-2-2000x1333.jpg");
 }
 .cid-qEPdTWzr8s .mbr-text {
   color: #41494b;
@@ -1399,7 +1399,7 @@ body {
 .cid-qEPoUJuK2K {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/rodion-kutsaev-24833-2000x1333.jpg");
+  background-image: url("../../../assets/images/rodion-kutsaev-24837-2000x1333.jpg");
 }
 .cid-qELz7YvLSI {
   background-image: url("../../../assets/images/iphonex-1-2000x1065.jpg");
@@ -1429,10 +1429,10 @@ body {
 .cid-qEPp0hqTUE {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/rodion-kutsaev-24833-2000x1333.jpg");
+  background-image: url("../../../assets/images/rodion-kutsaev-24838-2000x1333.jpg");
 }
 .cid-qELzK1GFsQ {
-  background-image: url("../../../assets/images/kelli-tungay-309722-2000x1333.jpg");
+  background-image: url("../../../assets/images/kelli-tungay-309723-2000x1333.jpg");
 }
 .cid-qELzK1GFsQ h1 {
   color: #616161;
@@ -1459,7 +1459,7 @@ body {
 .cid-qEPL7gpzEn {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/rodion-kutsaev-24833-2000x1333.jpg");
+  background-image: url("../../../assets/images/rodion-kutsaev-24839-2000x1333.jpg");
 }
 .cid-qELA99MyJN {
   background-image: url("../../../assets/images/woman-in-chair-1200x716.jpg");
@@ -1488,7 +1488,7 @@ body {
 .cid-qEPLgWL1AU {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/rodion-kutsaev-24833-2000x1333.jpg");
+  background-image: url("../../../assets/images/rodion-kutsaev-24840-2000x1333.jpg");
 }
 .cid-qH59LNFzBa {
   padding-top: 90px;
@@ -1525,10 +1525,10 @@ body {
 .cid-qEPLmry9Sw {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/rodion-kutsaev-24833-2000x1333.jpg");
+  background-image: url("../../../assets/images/rodion-kutsaev-24841-2000x1333.jpg");
 }
 .cid-qFuPnIjo1u {
-  background-image: url("../../../assets/images/sof-1200x716.png");
+  background-image: url("../../../assets/images/-1200x716.png");
 }
 .cid-qFuPnIjo1u h1 {
   color: #616161;
@@ -1555,7 +1555,7 @@ body {
 .cid-qFuPp0MLC2 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/rodion-kutsaev-24833-2000x1333.jpg");
+  background-image: url("../../../assets/images/rodion-kutsaev-24842-2000x1333.jpg");
 }
 .cid-qEP5McyOK1 {
   background-image: url("../../../assets/images/pexels-photo-2000x1333.jpg");
@@ -1565,6 +1565,41 @@ body {
   color: #41494b;
 }
 .cid-qEP5McyOK1 H1 {
+  color: #41494b;
+}
+.cid-qHj8kRXmj7 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/rodion-kutsaev-24842-2000x1333.jpg");
+}
+.cid-qHj4Q9lwnx {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/depositphotos-5069856-original-1-2000x1333.jpg");
+}
+.cid-qHj4Q9lwnx .title {
+  margin-bottom: 2rem;
+}
+.cid-qHj4Q9lwnx .mbr-section-subtitle {
+  color: #41494b;
+}
+.cid-qHj4Q9lwnx a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-qHj4Q9lwnx a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-qHj4Q9lwnx .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-qHj4Q9lwnx .input-group-btn {
+  display: block;
+  text-align: center;
+}
+.cid-qHj4Q9lwnx B {
   color: #41494b;
 }
 .cid-qFv2Bbexca {
