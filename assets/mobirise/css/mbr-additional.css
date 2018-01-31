@@ -99,6 +99,24 @@ body {
   justify-content: center;
   word-break: break-word;
 }
+/*funnel*/
+.btn2 {
+  font-weight: 500;
+  border-width: 2px;
+  font-style: normal;
+  letter-spacing: 1px;
+  margin: .4rem .8rem;
+  white-space: normal;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  padding: 1rem 3rem;
+  border-radius: 3px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  word-break: break-word;
+}
 .btn-sm {
   font-weight: 500;
   letter-spacing: 1px;
@@ -528,12 +546,27 @@ a.text-black:focus {
 .alert-danger {
   background-color: #e9380a;
 }
+
+/*funnel*/
+.alert-danger2 {
+  background-color: #e9380a;
+}
+/*funnel*/
+
 .mbr-section-btn a.btn:not(.btn-form) {
   border-radius: 100px;
 }
 .mbr-section-btn a.btn:not(.btn-form):hover {
   box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.2);
 }
+/*funnel*/
+.mbr-section-btn a.btn:not(.btn-form2) {
+  border-radius: 100px;
+}
+.mbr-section-btn a.btn:not(.btn-form2):hover {
+  box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.2);
+}
+/*funnel*/
 .mbr-gallery-filter li a {
   border-radius: 100px !important;
 }
@@ -554,6 +587,14 @@ a.text-black:focus {
 .btn-form:hover {
   cursor: pointer;
 }
+/*funnel*/
+.btn-form2 {
+  border-radius: 0;
+}
+.btn-form2:hover {
+  cursor: pointer;
+}
+/*funnel-end*/
 a,
 a:hover {
   color: #41494b;
